@@ -1,4 +1,8 @@
 # CMPE273-Fall2020
-Assignment 1 \n
-Name: Do Hyeong Kim \n
+Assignment 1 
+
+
+Name: Do Hyeong Kim 
+
+
 ID: 014641497
